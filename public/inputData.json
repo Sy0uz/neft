@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "machineName":"Pump-compressor unit (PCU)",
+        "temp":130,
+        "pressure":50,
+        "rspeed":400,
+        "voltage":5,
+        "amperage":5
+    },
+    {
+        "id":2,
+        "machineName":"Dehydrator",
+        "temp":80,
+        "pressure":80,
+        "rspeed":800,
+        "voltage":100,
+        "amperage":5
+    },
+    {
+        "id":3,
+        "machineName":"Gas separator",
+        "temp":95,
+        "pressure":120,
+        "rspeed":400,
+        "voltage":150,
+        "amperage":20
+    },
+    {
+        "id":4,
+        "machineName":"Oil-gas separator",
+        "temp":200,
+        "pressure":200,
+        "rspeed":400,
+        "voltage":220,
+        "amperage":50
+    },
+    {
+        "id":5,
+        "machineName":"Pre-water removal unit (PWRU)",
+        "temp":80,
+        "pressure":250,
+        "rspeed":200,
+        "voltage":120,
+        "amperage":50
+    },
+    {
+        "id":6,
+        "machineName":"Fractionation column unit",
+        "temp":60,
+        "pressure":180,
+        "rspeed":800,
+        "voltage":220,
+        "amperage":40
+    }
+]
