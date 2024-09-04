@@ -2,7 +2,7 @@
     {
         "id":1,
         "machineName":"Pump-compressor unit (PCU)",
-        "temp":130,
+        "temp":830,
         "pressure":50,
         "rspeed":400,
         "voltage":5,
